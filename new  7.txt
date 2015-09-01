@@ -1,0 +1,28 @@
+Day Specifiers:
+d----------->Day of month,two digits,with leading zeroes------>01-31
+D----------->Day of the week,three letters              ------>Mon to Sun
+j----------->Day of the month,no leading zeros         ------->1 to 31
+l----------->Day of the week,full names                ------->Sunday to Saturday
+N----------->Day of the week,numeric                   ------->1-7
+w----------->Day of the week,                          ------->0-6
+Week specifier:
+W----------->week number of year                       -------->01-52
+Month Specifiers:
+F----------->Month name                               --------->January to December
+m----------->Month number with leading zeros          ---------->01-12
+M------------>Month name,three letters                 --------->Jan to Dec
+Year specifiers:
+L------------>Leap year                               ---------->1=Yes,0=No
+y------------>Year,2 digits                           ----------->00 to 99
+Y------------>Year 4 digits                           ----------->0000 to 9999
+Time specifiers:
+a -----------> Before or after midday,lowercase       ----------->am or pm
+A------------->Before or after midday,uppercase       ------------>AM or PM
+g------------->Hour of day,12 hour format,with no leading zero------->1 to 12
+G------------->Hour of day,24 hour format,with no leading zero-------->0-23
+h------------->Hour of day,12 hour format,with leading zero---------->01 to 12
+H------------->Hour of day,24 hour format,with leading zero-------->00-23
+i------------->Minutes,with leading zeros                 --------->00-59
+s------------->Seconds,with leading zeros                 --------->00-59
+
+   
