@@ -1,0 +1,16 @@
+-----------------------------------------------------------
+Mode  |     Action            |      Description            |
+-----------------------------------------------------------
+'r'   |  Read from file       |    Open for read only       |
+-----------------------------------------------------------
+'r+'  |Read from file and     | Open for reading and writing|
+      | allow write           | 
+-----------------------------------------------------------	
+'w'   |Write to file          |Open for writing            |
+------------------------------------------------------------
+'w+'  |write to file,reading  |Open for reading,writing    |
+-------------------------------------------------------------
+'a'   |Append to the file end |Open for writing only        |
+------------------------------------------------------------
+'a+'  |Append to file and read|Open for reading and writing |
+-------------------------------------------------------------  

@@ -3,6 +3,7 @@ if(file_exists("testfile.txt"))
 echo "File exists";
 else
 echo "File Doesnot exists";
+echo '<br><br>';
 ?>
 <?php
 $f=fopen("textfile.txt",'w') or die("Failed to create file");
